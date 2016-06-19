@@ -9,6 +9,668 @@
 		<string>46</string>
 		<key>objects</key>
 		<dict>
+			<key>2BD848085E489F5989593F5C</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxTween.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/ofxTween.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>1038FD972C2F0D1CD1FAB595</key>
+			<dict>
+				<key>fileRef</key>
+				<string>56CCFFA6439C6E6857D6DA72</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>56CCFFA6439C6E6857D6DA72</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxTween.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/ofxTween.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>187D8A9A243416A58E828ECF</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingSine.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingSine.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>464FF12FE1F306869183D462</key>
+			<dict>
+				<key>fileRef</key>
+				<string>563EBAF3C7BA6A336E4B3C65</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>563EBAF3C7BA6A336E4B3C65</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingSine.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingSine.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>8CA1E57C32A009AEA2F5BC9F</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingQuint.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingQuint.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>49289B052A7FA53442D722D3</key>
+			<dict>
+				<key>fileRef</key>
+				<string>6CD65827805CDB8A7316E5BF</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>6CD65827805CDB8A7316E5BF</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingQuint.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingQuint.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>0F413AD0A33380BF16CB5607</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingQuart.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingQuart.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>12CF81B356AD38C5DE6F4DD4</key>
+			<dict>
+				<key>fileRef</key>
+				<string>2CD10A9847EC0E3C6335A709</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>2CD10A9847EC0E3C6335A709</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingQuart.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingQuart.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>69EFBFE035F85791C49B6F1B</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingQuad.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingQuad.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>10C62F558FC19D8BF0759847</key>
+			<dict>
+				<key>fileRef</key>
+				<string>8C699915F84DC778D71DE076</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>8C699915F84DC778D71DE076</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingQuad.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingQuad.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>95E7D041E2E0F6FAB4038CB6</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingLinear.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingLinear.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>6FFCF0061595D494AC79EEDB</key>
+			<dict>
+				<key>fileRef</key>
+				<string>0AD9469E91C27C901BB69538</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>0AD9469E91C27C901BB69538</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingLinear.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingLinear.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>03363DC5B2C8723C95F37904</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingExpo.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingExpo.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>F4CDBF75EC51EBB923273A14</key>
+			<dict>
+				<key>fileRef</key>
+				<string>BDBE7C4EB3F58179EC7699E9</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>BDBE7C4EB3F58179EC7699E9</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingExpo.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingExpo.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>167F61FF0877515D13CF5729</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingElastic.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingElastic.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>93DD04A4F91F45AB5A1F5798</key>
+			<dict>
+				<key>fileRef</key>
+				<string>54D12FBB2765D64FD815744D</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>54D12FBB2765D64FD815744D</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingElastic.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingElastic.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>ADDFDADE78D2ACBFD404D0B1</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingCubic.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingCubic.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>DF21A8B5079952514722DA46</key>
+			<dict>
+				<key>fileRef</key>
+				<string>5C730531701BDC89288E83EE</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>5C730531701BDC89288E83EE</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingCubic.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingCubic.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>FDD0DAA062CA6C42D1343534</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingCirc.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingCirc.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>F5ADB24C066A9EAFC79E6791</key>
+			<dict>
+				<key>fileRef</key>
+				<string>536B9317005BB0F397B0B230</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>536B9317005BB0F397B0B230</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingCirc.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingCirc.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>C56611AA4BAAEA6152E99C0E</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingBounce.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingBounce.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>589DF702F2290AB2F865ED15</key>
+			<dict>
+				<key>fileRef</key>
+				<string>157978658D0928AF05FB71E5</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>157978658D0928AF05FB71E5</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingBounce.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingBounce.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>517A0E12738751F6EA561FA1</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingBack.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingBack.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>8229457070787DD0A28DEA91</key>
+			<dict>
+				<key>fileRef</key>
+				<string>47F7ACE376F608F840214B5B</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>47F7ACE376F608F840214B5B</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasingBack.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasingBack.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>CE02CF1ED8CA2A1F1529137A</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasing.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasing.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>E7358009D1A46970E29D97E8</key>
+			<dict>
+				<key>fileRef</key>
+				<string>D80584D4454361F126FBE067</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>D80584D4454361F126FBE067</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxEasing.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/ofxEasing.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>B59DDD3C0EB9FFC71F28869B</key>
+			<dict>
+				<key>children</key>
+				<array>
+					<string>F0013ACB2A9E40BFEC977EC6</string>
+					<string>D80584D4454361F126FBE067</string>
+					<string>CE02CF1ED8CA2A1F1529137A</string>
+					<string>47F7ACE376F608F840214B5B</string>
+					<string>517A0E12738751F6EA561FA1</string>
+					<string>157978658D0928AF05FB71E5</string>
+					<string>C56611AA4BAAEA6152E99C0E</string>
+					<string>536B9317005BB0F397B0B230</string>
+					<string>FDD0DAA062CA6C42D1343534</string>
+					<string>5C730531701BDC89288E83EE</string>
+					<string>ADDFDADE78D2ACBFD404D0B1</string>
+					<string>54D12FBB2765D64FD815744D</string>
+					<string>167F61FF0877515D13CF5729</string>
+					<string>BDBE7C4EB3F58179EC7699E9</string>
+					<string>03363DC5B2C8723C95F37904</string>
+					<string>0AD9469E91C27C901BB69538</string>
+					<string>95E7D041E2E0F6FAB4038CB6</string>
+					<string>8C699915F84DC778D71DE076</string>
+					<string>69EFBFE035F85791C49B6F1B</string>
+					<string>2CD10A9847EC0E3C6335A709</string>
+					<string>0F413AD0A33380BF16CB5607</string>
+					<string>6CD65827805CDB8A7316E5BF</string>
+					<string>8CA1E57C32A009AEA2F5BC9F</string>
+					<string>563EBAF3C7BA6A336E4B3C65</string>
+					<string>187D8A9A243416A58E828ECF</string>
+				</array>
+				<key>isa</key>
+				<string>PBXGroup</string>
+				<key>name</key>
+				<string>Easings</string>
+				<key>sourceTree</key>
+				<string>&lt;group&gt;</string>
+			</dict>
+			<key>81B62DB6C371DAD643503FEF</key>
+			<dict>
+				<key>children</key>
+				<array>
+					<string>B59DDD3C0EB9FFC71F28869B</string>
+					<string>56CCFFA6439C6E6857D6DA72</string>
+					<string>2BD848085E489F5989593F5C</string>
+				</array>
+				<key>isa</key>
+				<string>PBXGroup</string>
+				<key>name</key>
+				<string>src</string>
+				<key>sourceTree</key>
+				<string>&lt;group&gt;</string>
+			</dict>
+			<key>1F293A20D2B096D59C4F24DD</key>
+			<dict>
+				<key>children</key>
+				<array>
+					<string>81B62DB6C371DAD643503FEF</string>
+				</array>
+				<key>isa</key>
+				<string>PBXGroup</string>
+				<key>name</key>
+				<string>ofxTween</string>
+				<key>sourceTree</key>
+				<string>&lt;group&gt;</string>
+			</dict>
+			<key>7237E8363430C26B982FA77A</key>
+			<dict>
+				<key>fileRef</key>
+				<string>F0013ACB2A9E40BFEC977EC6</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>F0013ACB2A9E40BFEC977EC6</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>file</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>easing_terms_of_use.html</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings/easing_terms_of_use.html</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>1EC506DC6F717569A58D92F7</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxTrueTypeFontUC.h</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTrueTypeFontUC/src/ofxTrueTypeFontUC.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>0816FAE6729FD8D7120D0B77</key>
+			<dict>
+				<key>children</key>
+				<array>
+					<string>1ED040AA3C6123D41E3A6F34</string>
+					<string>1EC506DC6F717569A58D92F7</string>
+				</array>
+				<key>isa</key>
+				<string>PBXGroup</string>
+				<key>name</key>
+				<string>src</string>
+				<key>sourceTree</key>
+				<string>&lt;group&gt;</string>
+			</dict>
+			<key>95D87FD7121C8B2D7D5F155C</key>
+			<dict>
+				<key>children</key>
+				<array>
+					<string>0816FAE6729FD8D7120D0B77</string>
+				</array>
+				<key>isa</key>
+				<string>PBXGroup</string>
+				<key>name</key>
+				<string>ofxTrueTypeFontUC</string>
+				<key>sourceTree</key>
+				<string>&lt;group&gt;</string>
+			</dict>
+			<key>2E3DDF49BB8F395D695DEA5F</key>
+			<dict>
+				<key>fileRef</key>
+				<string>1ED040AA3C6123D41E3A6F34</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>1ED040AA3C6123D41E3A6F34</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxTrueTypeFontUC.cpp</string>
+				<key>path</key>
+				<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTrueTypeFontUC/src/ofxTrueTypeFontUC.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>FDDC4B6B12B3BE55B26AEE28</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>Lyrics.hpp</string>
+				<key>path</key>
+				<string>src/Lyrics.hpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>EAAFF0D26B84FFDB33F68D34</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>Fandango.hpp</string>
+				<key>path</key>
+				<string>src/Fandango.hpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
 			<key>6948EE371B920CB800B5AC1A</key>
 			<dict>
 				<key>children</key>
@@ -23,7 +685,10 @@
 			<key>BB4B014C10F69532006C3DED</key>
 			<dict>
 				<key>children</key>
-				<array />
+				<array>
+					<string>95D87FD7121C8B2D7D5F155C</string>
+					<string>1F293A20D2B096D59C4F24DD</string>
+				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>
 				<key>name</key>
@@ -40,7 +705,7 @@
 				<key>name</key>
 				<string>openFrameworksLib.xcodeproj</string>
 				<key>path</key>
-				<string>../../../libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj</string>
+				<string>../../Downloads/of_v0.9.3_osx_release/libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -173,6 +838,14 @@
 				<string>E4EB6923138AFD0F00A09F29</string>
 				<key>buildSettings</key>
 				<dict>
+					<key>HEADER_SEARCH_PATHS</key>
+					<array>
+						<string>$(OF_CORE_HEADERS)</string>
+						<string>src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTrueTypeFontUC/src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings</string>
+					</array>
 					<key>CONFIGURATION_BUILD_DIR</key>
 					<string>$(SRCROOT)/bin/</string>
 					<key>COPY_PHASE_STRIP</key>
@@ -226,6 +899,14 @@
 				<string>E4EB6923138AFD0F00A09F29</string>
 				<key>buildSettings</key>
 				<dict>
+					<key>HEADER_SEARCH_PATHS</key>
+					<array>
+						<string>$(OF_CORE_HEADERS)</string>
+						<string>src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTrueTypeFontUC/src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings</string>
+					</array>
 					<key>CONFIGURATION_BUILD_DIR</key>
 					<string>$(SRCROOT)/bin/</string>
 					<key>COPY_PHASE_STRIP</key>
@@ -281,6 +962,21 @@
 				<array>
 					<string>E4B69E200A3A1BDC003C02F2</string>
 					<string>E4B69E210A3A1BDC003C02F2</string>
+					<string>2E3DDF49BB8F395D695DEA5F</string>
+					<string>7237E8363430C26B982FA77A</string>
+					<string>E7358009D1A46970E29D97E8</string>
+					<string>8229457070787DD0A28DEA91</string>
+					<string>589DF702F2290AB2F865ED15</string>
+					<string>F5ADB24C066A9EAFC79E6791</string>
+					<string>DF21A8B5079952514722DA46</string>
+					<string>93DD04A4F91F45AB5A1F5798</string>
+					<string>F4CDBF75EC51EBB923273A14</string>
+					<string>6FFCF0061595D494AC79EEDB</string>
+					<string>10C62F558FC19D8BF0759847</string>
+					<string>12CF81B356AD38C5DE6F4DD4</string>
+					<string>49289B052A7FA53442D722D3</string>
+					<string>464FF12FE1F306869183D462</string>
+					<string>1038FD972C2F0D1CD1FAB595</string>
 				</array>
 				<key>isa</key>
 				<string>PBXSourcesBuildPhase</string>
@@ -361,6 +1057,14 @@
 				<string>E4EB6923138AFD0F00A09F29</string>
 				<key>buildSettings</key>
 				<dict>
+					<key>HEADER_SEARCH_PATHS</key>
+					<array>
+						<string>$(OF_CORE_HEADERS)</string>
+						<string>src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTrueTypeFontUC/src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings</string>
+					</array>
 					<key>COMBINE_HIDPI_IMAGES</key>
 					<string>YES</string>
 					<key>COPY_PHASE_STRIP</key>
@@ -371,7 +1075,7 @@
 						<string>$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)</string>
 					</array>
 					<key>FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1</key>
-					<string>"$(SRCROOT)/../../../libs/glut/lib/osx"</string>
+					<string>"$(SRCROOT)/../../Downloads/of_v0.9.3_osx_release/libs/glut/lib/osx"</string>
 					<key>GCC_DYNAMIC_NO_PIC</key>
 					<string>NO</string>
 					<key>GCC_GENERATE_DEBUGGING_SYMBOLS</key>
@@ -404,6 +1108,14 @@
 				<string>E4EB6923138AFD0F00A09F29</string>
 				<key>buildSettings</key>
 				<dict>
+					<key>HEADER_SEARCH_PATHS</key>
+					<array>
+						<string>$(OF_CORE_HEADERS)</string>
+						<string>src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTrueTypeFontUC/src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src</string>
+						<string>../../Downloads/of_v0.9.3_osx_release/addons/ofxTween/src/Easings</string>
+					</array>
 					<key>COMBINE_HIDPI_IMAGES</key>
 					<string>YES</string>
 					<key>COPY_PHASE_STRIP</key>
@@ -414,7 +1126,7 @@
 						<string>$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)</string>
 					</array>
 					<key>FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1</key>
-					<string>"$(SRCROOT)/../../../libs/glut/lib/osx"</string>
+					<string>"$(SRCROOT)/../../Downloads/of_v0.9.3_osx_release/libs/glut/lib/osx"</string>
 					<key>GCC_GENERATE_DEBUGGING_SYMBOLS</key>
 					<string>YES</string>
 					<key>GCC_MODEL_TUNING</key>
@@ -448,6 +1160,8 @@
 					<string>E4B69E1D0A3A1BDC003C02F2</string>
 					<string>E4B69E1E0A3A1BDC003C02F2</string>
 					<string>E4B69E1F0A3A1BDC003C02F2</string>
+					<string>EAAFF0D26B84FFDB33F68D34</string>
+					<string>FDDC4B6B12B3BE55B26AEE28</string>
 				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>
@@ -549,10 +1263,10 @@
 # Copy default icon file into App/Resources
 rsync -aved "$ICON_FILE" "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Resources/"
 # Copy libfmod and change install directory for fmod to run
-rsync -aved ../../../libs/fmodex/lib/osx/libfmodex.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Frameworks/";
+rsync -aved ../../Downloads/of_v0.9.3_osx_release/libs/fmodex/lib/osx/libfmodex.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Frameworks/";
 install_name_tool -change @executable_path/libfmodex.dylib @executable_path/../Frameworks/libfmodex.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/$PRODUCT_NAME";
 # Copy GLUT framework (must remove for AppStore submissions)
-rsync -aved ../../../libs/glut/lib/osx/GLUT.framework "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Frameworks/"
+rsync -aved ../../Downloads/of_v0.9.3_osx_release/libs/glut/lib/osx/GLUT.framework "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Frameworks/"
 </string>
 			</dict>
 			<key>E4C2427710CC5ABF004149E2</key>
@@ -581,7 +1295,7 @@ rsync -aved ../../../libs/glut/lib/osx/GLUT.framework "$TARGET_BUILD_DIR/$PRODUC
 				<key>name</key>
 				<string>CoreOF.xcconfig</string>
 				<key>path</key>
-				<string>../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig</string>
+				<string>../../Downloads/of_v0.9.3_osx_release/libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
