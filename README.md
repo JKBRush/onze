@@ -1,18 +1,21 @@
 # NeXT
-###What's left?
+### What's left?
 
 <img align="center" src="OSX.gif" width="100%"/>
 
 
 
-###Develop Tools
+### Develop Tools
 
 * Xcode version 7.2.1
 
 * openFrameworks 0.9.3
 
-###Platform
+### Platform
+
 * OS X El Capitan
 
-###Inspiration
+### Inspiration
+
 * WWDC16
+
